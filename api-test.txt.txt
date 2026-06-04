@@ -2,3 +2,4 @@ API Test Cases:
 1. Get user details
 2. Validate response status
 3. Validate error handling
+4. Validate timeout scenarios
