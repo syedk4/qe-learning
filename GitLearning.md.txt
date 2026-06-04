@@ -1,0 +1,14 @@
+Accessing git from local system
+Step 1: Understand what you are doing
+TermMeaning Local Your laptop, Remote GitHub, Push Send code → GitHub, Pull Get code ← GitHub.
+Step 2
+Open Command Prompt (or Git Bash) check you have installed git in local system git --version
+✅ If version shows → Good
+❌ If not:
+
+Install from: https://git-scm.com/
+
+Step 3: Code your repo
+👉 Go to your repo in GitHub
+Click Code → Copy HTTPS URL https://github.com/syedk4/qe-learning
+Run in terminal: git clone https://github.com/<your-username>/qe-learning.git
