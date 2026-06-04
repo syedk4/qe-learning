@@ -1,3 +1,4 @@
 Login Test Cases:
 1. Valid login
 2. Invalid login
+3. Validate error handling
