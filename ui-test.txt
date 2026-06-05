@@ -1,5 +1,6 @@
 UI Test Cases:
 1. Login UI validation
 2. Button click validation
+3. Step is added to see the pull request process.
 
 
